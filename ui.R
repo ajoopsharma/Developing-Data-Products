@@ -1,5 +1,5 @@
-# Author: Gyan GM
-# Date: 2016-04-24
+# Author: Dilip Singh Kunwar
+# Date: 2016-05-28
 #
 # User Interface File for US Population Predictor.
 

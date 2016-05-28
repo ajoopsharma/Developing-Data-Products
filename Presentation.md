@@ -1,14 +1,14 @@
 
 US Population Predictor
 ========================
-author: Gyaan GM
-date: 23rd April 2016
+author: Dilip Singh Kunwar
+date: 28rd May 2016
 autosize: true
 
 Application Description:
 =======================
 
-Github: <https://github.com/gkgm/Developing-Data-Products>
+Github: <https://github.com/dskunwar/Developing-Data-Products>
 
 <small>
 The application uses R code to calculate the future US population between the years 2014 and 2040 using historical population data from the past 34 years (i.e. 1980 to 2013) and linear regression based on those past data points. 
