@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "Dilip Singh Kunwar"
+author: "Dhirendra Kumar Nayak"
 date: "May 28, 2016"
 output: html_document
 runtime: shiny
