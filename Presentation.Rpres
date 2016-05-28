@@ -1,7 +1,7 @@
 
 US Population Predictor
 ========================
-author: Dilip Singh Kunwar
+author: Dhirendra Kumar Nayak
 date: 28rd May 2016
 autosize: true
 
