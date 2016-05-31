@@ -1,10 +1,4 @@
----
-title: "README"
-author: "Dhirendra Kumar Nayak"
-date: "May 28, 2016"
-output: html_document
-runtime: shiny
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -12,7 +6,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Application Description
 
-Github: <https://github.com/dskunwar/Developing-Data-Products>
+https://github.com/ajoopsharma/Developing-Data-Products
 
 The application uses R code to calculate the future US population between the years 2014 and 2040 using historical population data from the past 34 years (i.e. 1980 to 2013) and linear regression based on those past data points. 
 
